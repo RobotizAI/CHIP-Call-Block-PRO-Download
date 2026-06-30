@@ -14,7 +14,7 @@ O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, prat
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yCYManlM6qZxiLOoUYVkRaQaRiBidYv4/view?usp=sharing" target="_blank">
-    <img src="Print%20-%20CHIP%20Call%20Block%20PRO%20-%20RobotizAI%20%5BApp%20Android%5D.jpeg" alt="Screenshot CHIP Call Block PRO - RobotizAI" width="30%">
+    <img src="Print%20-%20CHIP%20Call%20Block%20PRO%20-%20RobotizAI%20%5BApp%20Android%5D.jpeg" alt="Screenshot CHIP Call Block PRO - RobotizAI" width="40%">
   </a>
 </p>
 
