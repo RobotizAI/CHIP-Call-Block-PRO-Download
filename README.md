@@ -6,7 +6,7 @@ O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, prat
 
 <p align="left">
   <a href="https://github.com/RobotizAI/CHIP-Call-Block-PRO-Download/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/CLIQUE%20AQUI-BAIXAR%20APK-047857?style=for-the-badge&logo=android&logoColor=ECFDF5&labelColor=022C22" alt="Clique aqui para Baixar APK">
+    <img src="https://img.shields.io/badge/CLIQUE%20AQUI%20PARA-BAIXAR%20.APK-047857?style=for-the-badge&logo=android&logoColor=ECFDF5&labelColor=022C22" alt="Clique aqui para Baixar APK">
   </a>
 </p>
 
