@@ -10,6 +10,10 @@ O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, prat
   </a>
 </p>
 
+<a href="https://robotizai.github.io/CHIP-Call-Block-PRO-Download" target="_blank">
+  <img src="Print%20-%20CHIP%20Call%20Block%20PRO%20-%20RobotizAI%20%5BApp%20Android%5D.jpeg" alt="Screenshot CHIP Call Block PRO - RobotizAI">
+</a>
+
 ## 📱 O que é o CHIP Call Block PRO?
 
 O CHIP Call Block PRO é um aplicativo Android criado para bloquear chamadas indesejadas usando os recursos oficiais do sistema Android.
