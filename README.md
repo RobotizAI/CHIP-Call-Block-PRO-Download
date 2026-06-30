@@ -107,19 +107,20 @@ Também é salvo o total de ligações bloqueadas por dia, permitindo acompanhar
 
 ## 📥 Como baixar o APK pelo GitHub
 
-Após o projeto ser enviado para um repositório GitHub, o APK pode ser gerado automaticamente pelo GitHub Actions.
+Acesse nosso repositorio oficial, clique no botão verde "< > Code" no canto superior direito da pagina GitHub, depois cliqem de "Download ZIP" para Baixar.
 
 ### Opção recomendada: baixar pelo GitHub Actions
 
 1. Acesse o repositório do projeto no GitHub.
-2. Clique na aba Actions.
-3. Clique no workflow Build APK.
-4. Abra a execução mais recente com o símbolo verde de sucesso.
-5. Desça até a seção Artifacts.
-6. Baixe o arquivo ZIP gerado.
-7. Extraia o ZIP no seu computador ou celular.
-8. Dentro dele estará o arquivo .apk.
-9. Envie o APK para seu celular Android e instale.
+2. Baixe o ZIP no seu celular.
+3. Descompacte o ZIP para acessarto o arquivo APK.
+4. Clique no arquivo APK e depois em Instalar,
+5. Aguarde a conclusão da instalação e clique em Abrir.
+6. Aceite as permissões necessarias Contatos, Notificações e Chamadas.
+7. Clique em "Ativar proteção", selecione CHIP Call Block PRO e clique em "Definir como padrão" para salvar.
+8. Clique na chave de seleção para ativar o Bloqueio de Chamada no Chip desejado.
+9. Clique em "Configurar Chip 1" ou "Configurar Chip 1" para configurar suas preferencias.
+10. Dentro de "Configurar Chip" escolha o "Mode de proteção" adequado para o seu caso e desmarque a opção "Desligado" para iniciar o bloquei de chamadas indesejas.
 
 ---
 
