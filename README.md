@@ -7,15 +7,13 @@ O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, prat
 ---
 
 <p align="center">
-  <a href="https://github.com/RobotizAI/CHIP-Call-Block-PRO-Download/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/CLIQUE%20AQUI%20PARA-BAIXAR%20.APK-047857?style=for-the-badge&logo=android&logoColor=ECFDF5&labelColor=022C22" alt="Clique aqui para Baixar APK">
+  <a href="https://drive.google.com/file/d/1yCYManlM6qZxiLOoUYVkRaQaRiBidYv4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CLIQUE%20AQUI-BAIXAR%20APK-047857?style=for-the-badge&logo=android&logoColor=ECFDF5&labelColor=022C22" alt="Clique aqui para Baixar APK">
   </a>
 </p>
 
----
-
 <p align="center">
-  <a href="https://github.com/RobotizAI/CHIP-Call-Block-PRO-Download/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://drive.google.com/file/d/1yCYManlM6qZxiLOoUYVkRaQaRiBidYv4/view?usp=sharing" target="_blank">
     <img src="Print%20-%20CHIP%20Call%20Block%20PRO%20-%20RobotizAI%20%5BApp%20Android%5D.jpeg" alt="Screenshot CHIP Call Block PRO - RobotizAI" width="30%">
   </a>
 </p>
