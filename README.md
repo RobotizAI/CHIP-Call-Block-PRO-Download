@@ -4,11 +4,15 @@ Bloqueador inteligente de chamadas para Android, criado para ajudar você a cont
 
 O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, praticidade e facilidade de uso. Ele permite configurar regras de proteção por chip, acompanhar chamadas bloqueadas no histórico e usar o app como identificador/bloqueador padrão de chamadas e spam no Android.
 
+---
+
 <p align="center">
   <a href="https://github.com/RobotizAI/CHIP-Call-Block-PRO-Download/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/CLIQUE%20AQUI%20PARA-BAIXAR%20.APK-047857?style=for-the-badge&logo=android&logoColor=ECFDF5&labelColor=022C22" alt="Clique aqui para Baixar APK">
   </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://github.com/RobotizAI/CHIP-Call-Block-PRO-Download/archive/refs/heads/main.zip" target="_blank">
@@ -16,7 +20,7 @@ O CHIP Call Block PRO foi desenvolvido com foco em segurança, privacidade, prat
   </a>
 </p>
 
-<br>
+---
 
 ## 📱 O que é o CHIP Call Block PRO?
 
